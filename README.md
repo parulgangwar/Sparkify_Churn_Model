@@ -1,5 +1,5 @@
 # Sparkify churn Model Project
-As a part of Data Science Nanodegree program by Udacity, This is my third project named “Sparkify churn Model Project”. In this project, I’ll create the process of managing large datasets to extract significant features for predicting customer churn. Additionally, I’ll demonstrate the development and testing of machine learning models using Apache Spark’s PySpark API and PySpark ML Package.
+As part of Data Science Nanodegree program by Udacity, This is my third project named “Sparkify churn Model Project”. In this project, I’ll create the process of managing large datasets to extract significant features for predicting customer churn. Additionally, I’ll demonstrate the development and testing of machine learning models using Apache Spark’s PySpark API and PySpark ML Package.
 
 The Project is divided into the following Sections:
 
