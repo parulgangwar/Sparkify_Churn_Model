@@ -1,5 +1,5 @@
 # Sparkify churn Model Project
-### As a part of Data Science Nanodegree program by Udacity, This is my third project named ìSparkify churn Model Projectî. In this project, Iíll create the process of managing large datasets to extract significant features for predicting customer churn. Additionally, Iíll demonstrate the development and testing of machine learning models using Apache Sparkís PySpark API and PySpark ML Package.
+## As a part of Data Science Nanodegree program by Udacity, This is my third project named ‚ÄúSparkify churn Model Project‚Äù. In this project, I‚Äôll create the process of managing large datasets to extract significant features for predicting customer churn. Additionally, I‚Äôll demonstrate the development and testing of machine learning models using Apache Spark‚Äôs PySpark API and PySpark ML Package.
 
 The Project is divided into the following Sections:
 
@@ -9,17 +9,17 @@ The Project is divided into the following Sections:
 4. Modeling
 5. Evaluation
 
-### [Detailed blog has been created at Medium.](https://medium.com/@parulgangwar/sparkify-churn-model-c838a4df9d49)
+## [Detailed blog has been created at Medium.](https://medium.com/@parulgangwar/sparkify-churn-model-c838a4df9d49)
 
 Files:
 * Sparkify_Churn_Model_Code.ipynb
 * README.md
 
 # Sparkify churn Model Project at Github
-### [Github Link for Project](https://github.com/parulgangwar/Sparkify_Churn_Model)
+## [Github Link for Project](https://github.com/parulgangwar/Sparkify_Churn_Model)
 
 Software and Data Requirements
-Python, Apache Sparkís PySpark API and PySpark ML Package.
+Python, Apache Spark‚Äôs PySpark API and PySpark ML Package.
 Dataset:mini_sparkify_event_data.json
 
 
